@@ -1,33 +1,21 @@
 # Aarya Parekh
 
-Third-year undergraduate at IIT Bombay building low-latency trading
-systems, market microstructure tools, and quantitative strategies.
+B.Tech in Energy Science and Engineering, IIT Bombay | 2028
 
-## Selected Projects
+I build market systems and quantitative research tools, with a focus on reproducible experiments and clear validation.
 
-| Project | What it demonstrates | Stack |
+## Selected projects
+
+| Project | What I built | Stack |
 |---|---|---|
-| Limit Order Book Engine | Matching logic, market mechanics, performance engineering | C++17 |
-| Market Microstructure Analyzer | Order-flow research, liquidity analysis, backtesting | Python |
-| Defensive Cross-Asset Momentum | Portfolio construction and systematic strategy research | C#, QuantConnect LEAN |
-| Aurum PMS | End-to-end product and backend architecture | React, FastAPI, PostgreSQL |
+| [Limit Order Book Engine](https://github.com/aariiparekh3012-collab/limit-order-book-engine) · [Replay lab](https://aariiparekh3012-collab.github.io/limit-order-book-engine/) | Multi-symbol matching engine with price-time priority, multiple order types, L2 depth, snapshots and 62 tests | C++17 |
+| [Market Microstructure Analyzer](https://github.com/aariiparekh3012-collab/market-microstructure-analyzer) · [Simulated replay](https://aarya-market-microstructure.ojasaarya30.chatgpt.site) | Streaming order-book analytics, OFI testing and execution simulation using synthetic data | Python, FastAPI, React |
+| Defensive Cross-Asset Momentum | Momentum strategy with inverse-volatility weights and a cash fallback | C#, QuantConnect LEAN |
+| Energy Stock Forecasting Framework | Compared forecasting models using chronological splits and walk-forward validation | Python, PyTorch, scikit-learn |
+| Aurum PMS | Portfolio-management prototype with multi-account positions, trade logs and daily NAV computation | React, FastAPI, PostgreSQL |
 
-## Current Focus
+## Current focus
 
 - Market microstructure and execution research
-- Low-latency systems in C++
+- C++ market systems
 - Reproducible quantitative strategy evaluation
-<!--
-**aariiparekh3012-collab/aariiparekh3012-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
