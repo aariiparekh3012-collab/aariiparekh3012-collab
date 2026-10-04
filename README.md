@@ -12,7 +12,6 @@ I build market systems and quantitative research tools, with a focus on reproduc
 | [Market Microstructure Analyzer](https://github.com/aariiparekh3012-collab/market-microstructure-analyzer) | Streaming order-book analytics, OFI testing and execution simulation using synthetic data | Python, FastAPI, React |
 | Defensive Cross-Asset Momentum | Momentum strategy with inverse-volatility weights and a cash fallback | C#, QuantConnect LEAN |
 | Energy Stock Forecasting Framework | Compared forecasting models using chronological splits and walk-forward validation | Python, PyTorch, scikit-learn |
-| Aurum PMS | Portfolio-management prototype with multi-account positions, trade logs and daily NAV computation | React, FastAPI, PostgreSQL |
 
 ## Current focus
 
