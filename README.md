@@ -4,23 +4,33 @@ I build software for market execution, microstructure research and portfolio ope
 
 ## Featured projects
 
-### [Limit Order Book Engine](https://github.com/aariiparekh3012-collab/limit-order-book-engine)
+### Limit Order Book Engine
 
 **Execution systems · C++17**  
-A multi-symbol matching engine with price-time priority, four order types, L2 depth and snapshots. The repository includes 62 tests and reproducible submission and mixed-workload benchmarks.  
-[Interactive replay demo](https://aariiparekh3012-collab.github.io/limit-order-book-engine/) · [Design notes](https://github.com/aariiparekh3012-collab/limit-order-book-engine/blob/main/DESIGN.md)
+A multi-symbol matching engine with price-time priority, four order types, L2 depth and snapshots. The repository includes 62 tests and reproducible submission and mixed-workload benchmarks.
 
-### [Market Microstructure Analyzer](https://github.com/aariiparekh3012-collab/market-microstructure-analyzer)
+<a href="https://github.com/aariiparekh3012-collab/limit-order-book-engine"><img src="assets/repository-button.svg" alt="Limit Order Book Engine repository"></a>
+<a href="https://aariiparekh3012-collab.github.io/limit-order-book-engine/"><img src="assets/demo-button.svg" alt="Limit Order Book Engine live demo"></a>
+
+### Market Microstructure Analyzer
 
 **Market analysis · Python, FastAPI, React**  
 Streaming order-book analytics, order-flow imbalance testing and execution simulation. The research examples use synthetic data.
 
-### [Aurum PMS](https://github.com/aariiparekh3012-collab/Aurum-PMS)
+<a href="https://github.com/aariiparekh3012-collab/market-microstructure-analyzer"><img src="assets/repository-button.svg" alt="Market Microstructure Analyzer repository"></a>
+
+### Aurum PMS
 
 **Portfolio operations · React, TypeScript, FastAPI, PostgreSQL**  
 A portfolio-management prototype covering onboarding, compliance review, portfolio workflows and investor reporting.
 
+<a href="https://github.com/aariiparekh3012-collab/Aurum-PMS"><img src="assets/repository-button.svg" alt="Aurum PMS repository"></a>
+
 ## Strategy research
 
-**[Defensive Cross-Asset Momentum](https://github.com/aariiparekh3012-collab/Defensive-Cross-Asset-Momentum)** · C#, QuantConnect LEAN  
+### Defensive Cross-Asset Momentum
+
+**C# · QuantConnect LEAN**  
 A momentum strategy using inverse-volatility weights and a cash fallback.
+
+<a href="https://github.com/aariiparekh3012-collab/Defensive-Cross-Asset-Momentum"><img src="assets/repository-button.svg" alt="Defensive Cross-Asset Momentum repository"></a>
