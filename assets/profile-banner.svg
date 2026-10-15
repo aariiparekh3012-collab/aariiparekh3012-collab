@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="300" viewBox="0 0 1160 300" role="img" aria-labelledby="title desc">
+  <title id="title">Aarya Parekh — market systems and quantitative research</title>
+  <desc id="desc">Cream and blush banner with abstract market-depth bars.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffaf4"/>
+      <stop offset="1" stop-color="#fce8f0"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d86891"/>
+      <stop offset="1" stop-color="#e7a1bb"/>
+    </linearGradient>
+    <clipPath id="rounded"><rect width="1160" height="300" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1160" height="300" fill="url(#background)"/>
+    <circle cx="1050" cy="10" r="220" fill="#f9d8e6" opacity=".66"/>
+    <circle cx="902" cy="319" r="186" fill="#f3d6e5" opacity=".38"/>
+    <path d="M0 268 H1160" stroke="#d5b7c4" opacity=".42"/>
+    <rect x="48" y="44" width="136" height="5" rx="2.5" fill="#d86891"/>
+    <text x="48" y="96" fill="#85546e" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">IIT BOMBAY · 2028</text>
+    <text x="44" y="173" fill="#282536" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="700" letter-spacing="-2">Aarya Parekh</text>
+    <text x="48" y="219" fill="#645767" font-family="Arial, Helvetica, sans-serif" font-size="24">Market systems  /  quantitative research</text>
+    <g transform="translate(758 49)">
+      <rect width="344" height="206" rx="20" fill="#fffdfb" opacity=".88" stroke="#e7c9d4"/>
+      <text x="23" y="35" fill="#85546e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">AREAS OF WORK</text>
+      <path d="M23 54 H321" stroke="#f1e2e7"/>
+      <rect x="23" y="75" width="98" height="11" rx="5.5" fill="#e9a4bc"/>
+      <rect x="23" y="98" width="139" height="11" rx="5.5" fill="#d86891"/>
+      <rect x="23" y="121" width="170" height="11" rx="5.5" fill="#b96089"/>
+      <rect x="23" y="144" width="205" height="11" rx="5.5" fill="#85546e"/>
+      <path d="M244 148 L264 126 L281 134 L303 89 L320 99" fill="none" stroke="url(#pink)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="303" cy="89" r="6" fill="#d86891"/>
+      <text x="23" y="185" fill="#645767" font-family="Arial, Helvetica, sans-serif" font-size="14">EXECUTION  ·  ANALYSIS  ·  OPERATIONS</text>
+    </g>
+  </g>
+</svg>
