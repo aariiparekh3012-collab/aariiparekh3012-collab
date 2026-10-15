@@ -1,26 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="238" viewBox="0 0 1160 238" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="244" viewBox="0 0 1160 244" role="img" aria-labelledby="title desc">
   <title id="title">Aarya Parekh — market systems and quantitative research</title>
-  <desc id="desc">Navy profile banner with a restrained rose accent and abstract order-book depth lines.</desc>
+  <desc id="desc">Professional navy banner with an abstract bid and ask depth illustration.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#172639"/>
-      <stop offset="1" stop-color="#22354b"/>
+      <stop offset="0" stop-color="#142234"/>
+      <stop offset="1" stop-color="#24354a"/>
     </linearGradient>
-    <clipPath id="frame"><rect width="1160" height="238" rx="14"/></clipPath>
+    <clipPath id="frame"><rect width="1160" height="244" rx="12"/></clipPath>
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="1160" height="238" fill="url(#bg)"/>
-    <path d="M0 0 H1160" stroke="#dba4b6" stroke-width="5"/>
-    <path d="M694 37 V201" stroke="#8ca0b4" opacity=".32"/>
-    <g opacity=".22" stroke="#b8cada" stroke-width="1">
-      <path d="M742 47 H1107 M742 83 H1107 M742 119 H1107 M742 155 H1107 M742 191 H1107"/>
-      <path d="M777 36 V201 M849 36 V201 M921 36 V201 M993 36 V201 M1065 36 V201"/>
+    <rect width="1160" height="244" fill="url(#bg)"/>
+    <rect width="1160" height="4" fill="#d6a1b3"/>
+    <text x="48" y="52" fill="#dba8ba" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">ENGINEERING PORTFOLIO</text>
+    <text x="44" y="128" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-1.5">Aarya Parekh</text>
+    <text x="48" y="176" fill="#d4deea" font-family="Arial, Helvetica, sans-serif" font-size="24">Market systems &amp; quantitative research</text>
+    <text x="48" y="214" fill="#9eafc0" font-family="Arial, Helvetica, sans-serif" font-size="16">IIT Bombay  ·  B.Tech Energy Science and Engineering  ·  2028</text>
+    <path d="M690 36 V208" stroke="#7f91a4" opacity=".32"/>
+    <g transform="translate(738 34)">
+      <text x="0" y="19" fill="#aabaca" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">ORDER BOOK / DEPTH</text>
+      <path d="M0 36 H366" stroke="#8497a9" opacity=".36"/>
+      <text x="3" y="61" fill="#8ec1bb" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">BID</text>
+      <text x="321" y="61" fill="#e2abc0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">ASK</text>
+      <path d="M182 49 V180" stroke="#98aabe" opacity=".42"/>
+      <g fill="#609e9a" opacity=".92">
+        <rect x="84" y="73" width="98" height="13" rx="2"/>
+        <rect x="59" y="96" width="123" height="13" rx="2"/>
+        <rect x="31" y="119" width="151" height="13" rx="2"/>
+        <rect x="68" y="142" width="114" height="13" rx="2"/>
+        <rect x="101" y="165" width="81" height="13" rx="2"/>
+      </g>
+      <g fill="#c889a5" opacity=".92">
+        <rect x="182" y="73" width="87" height="13" rx="2"/>
+        <rect x="182" y="96" width="131" height="13" rx="2"/>
+        <rect x="182" y="119" width="166" height="13" rx="2"/>
+        <rect x="182" y="142" width="109" height="13" rx="2"/>
+        <rect x="182" y="165" width="74" height="13" rx="2"/>
+      </g>
     </g>
-    <path d="M749 174 H814 V151 H866 V131 H931 V108 H996 V76 H1082" fill="none" stroke="#dba4b6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M749 185 H813 V169 H866 V158 H928 V144 H990 V129 H1082" fill="none" stroke="#7ca7b4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/>
-    <text x="50" y="62" fill="#dba4b6" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">MARKET SYSTEMS  /  RESEARCH</text>
-    <text x="46" y="135" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.5">Aarya Parekh</text>
-    <text x="50" y="183" fill="#d4deea" font-family="Arial, Helvetica, sans-serif" font-size="23">Execution · Microstructure · Portfolio software</text>
-    <text x="50" y="216" fill="#9db0c4" font-family="Arial, Helvetica, sans-serif" font-size="15">IIT Bombay  ·  B.Tech Energy Science and Engineering  ·  2028</text>
   </g>
 </svg>
